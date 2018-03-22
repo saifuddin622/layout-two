@@ -1,0 +1,23 @@
+.header{
+    min-height: 115px;
+    background-color: lightblue;
+    margin-top: 10px;
+}
+.logo{
+    min-height: 75px;
+    border: 2px solid black;
+    margin-top: 20px;
+    background-color: white;
+    
+}
+.body{
+    min-height: 240px;
+    background-color: lightblue;
+    margin-top: 10px;
+}
+.box{
+    min-height: 200px;
+    border: 2px solid black;
+    margin-top: 20px;
+    background-color: white;
+}
